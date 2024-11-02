@@ -33,6 +33,10 @@ php bin/magento setup:upgrade
 ```
 
 ## Changelog
+1.8.6
+=============
+* Third party contribution: API upgrade permit admin to set comments using cartId.
+
 1.8.5
 =============
 * Third party contribution: PHP 8.1 bugfix `Deprecated Functionality: trim(): Passing null to parameter` when viewing
